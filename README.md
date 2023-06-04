@@ -1,5 +1,6 @@
 # VideoSmooth: Creating Visual Effects with AI
 
+![ПGIF](images/GPT.gif)
 
 
 ## Overview
