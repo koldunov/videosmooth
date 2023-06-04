@@ -1,5 +1,7 @@
 # VideoSmooth: Creating Visual Effects with AI
 
+
+
 ## Overview
 
 This project demonstrates how artificial intelligence (AI), specifically using the ChatGPT model, can be used to create unique visual effects for videos.
@@ -26,7 +28,9 @@ so you can use this command:
 python videosmooth.py IMG_2871.MOV output7.mp4 average7.jpg
 
 
-For more detailed information on how to use this project and how we created it, check out our YouTube video: [[Link to video](https://youtu.be/irbQvHwpYC0)](#)
+For more detailed information on how to use this project and how we created it, check out our YouTube video:
+
+[![ND Filter Effect with AI: the Power of ChatGPT](https://img.youtube.com/vi/irbQvHwpYC0/0.jpg))](https://www.youtube.com/watch?v=irbQvHwpYC0)
 
 ## License
 
